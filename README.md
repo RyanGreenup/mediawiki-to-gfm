@@ -21,7 +21,7 @@ Major differences include the additon of PHPUnit tests, code is broken into clas
 
     git clone https://github.com/outofcontrol/mediawiki-to-gfm.git
     cd mediawiki-to-gfm
-    composer update --no-dev
+    composer update --no-dev -vvv
     
 ## Run
 
